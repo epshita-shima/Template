@@ -1,0 +1,248 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Comic 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background: gray;
+}
+.template{
+    width: 960px;
+    margin: 0 auto;
+    background: #FFF;
+}
+
+.row1{
+    height: 400px;
+    width: 100%;
+    margin-top: 20px;
+}
+.image_part{
+    position: relative;
+}
+.image_part img{
+    height: 340px;
+    width: 100%;
+}
+.title_part{
+    position: absolute;
+    bottom: 455px;
+    text-align: center;
+    left: 272px;
+    right: 222px;
+    color: #fff;
+}
+.title_part h1{
+    letter-spacing: -1px;
+    font-size: 35px;
+    padding-bottom: 15px;
+}
+.title_part p{
+    padding-top: 5px;
+    font-size: 20px;
+    letter-spacing: -1px;
+    padding-bottom: 20px;
+}
+.title_part button{
+    border: none;
+    background:#CF4946;
+    padding: 10px;
+    border-radius: 15px;
+}
+.row2{
+    height: 250px;
+    width: 100%;
+}
+.top_header{}
+
+.mid{
+    width: 850px;
+    margin: 0 auto;
+}
+.top_header_statement{}
+.top_header_statement h1{
+    text-align: center;
+    padding-bottom: 40px;
+}
+.top_header_des{
+
+}
+.top_header_des_pro{
+    float: left;
+    width: 263px;
+    margin-left: 20px;
+    text-align: center;
+}
+.top_header_des_pro_all{
+  
+}
+
+.top_header_des_pro img{
+    height: 40px;
+    margin-left: 10px;
+}
+.top_header_des_pro_all h4{
+    font-size: 16px;
+    pading-top: 7px;
+    margin-top: 7px;
+}
+.top_header_des_pro_all p{
+    font-size: 14px;
+    margin-top: 5px;
+}
+
+.row3{
+
+    height: 120px;
+    width: 100%;
+    background: #CF4946 ;
+}
+.header{}
+.header_all{
+    padding-top: 32px;
+    color:#fff;
+    margin-left: 35px;
+    position: relative;
+}
+.header_left{
+    width: 40%;
+    float: left;
+
+}
+.header_left span{
+    font-family: Informal Roman;
+}
+.header_left h3{
+    font-size: 19px;
+    margin-top: 8px;
+}
+.header_right{
+    width: 60%;
+    float: right;
+}
+.header_right p{}
+.header_right p{
+    font-family: Informal Roman;
+    margin-top: 5px;
+}
+.header_right button{
+    margin-left: 335px;
+    border: 1px solid #fff;
+    padding: 12px;
+    background: #CF4946;
+    border-radius: 5px;
+    margin-top: -41px;
+    position: absolute;
+}
+.row4{
+    height: 290px;
+    width: 100%;
+    background: #EFEFEF;
+}
+.location{}
+.location_properties{
+    padding-top: 45px;
+}
+.location_left{
+    width: 55%;
+    float: left;
+}
+.location_left_pro{
+    background: #fff;
+    height: 170px;
+    margin-left: 42px;
+    padding-top: 12px;
+}
+.location_pro_all{
+    margin-left: 35px;
+    margin-top: 20px;
+}
+.location_left_pro h4{
+    font-size: 25px;
+    padding-bottom: 12px;
+    padding-top: 11px;
+
+}
+.location_left_pro p{
+    font-size: 14px;
+}
+.location_right{
+    width: 45%;
+    float: right;
+}
+.location_left_pro span{
+    color: #CF4946 ;
+}
+.location_right_pro{
+    background: #CF4946;
+    height: 170px;
+    margin-left: 28px;
+    padding-top: 10px;
+    margin-right: 25px;
+}
+.location_right_pro_all{
+    margin-left: 22px;
+    margin-top: 50px;
+}
+.location_right_pro h4{
+	float: left;
+	width: 76px;
+	text-align: center;
+    font-size: 30px;
+    position: relative;
+
+}
+.location_right_pro h4 span{
+    margin-top: 37px;
+    position: absolute;
+    margin-left: -47px;
+    font-size: 17px;
+
+}
+.row5{
+    height: 600px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+.lower_part{}
+.lower_heading{ 
+    padding-top: 65px;
+}
+.lower_heading h1{
+    text-align: center;
+    padding-bottom: 45px;
+    letter-spacing: -1px;
+}
+.lower_heading_part{
+    margin-left: 15px;
+}
+.lower_heading_image{
+    float: left;
+    width: 268px;
+    margin-left: 10px;
+}
+.lower_heading_image img{
+    height: 170px;
+    width: 253px;
+    margin-left:14px;
+}
+.lower_heading_pro{
+    margin-left: 16px;
+}
+.lower_heading_pro h4{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+}
+.lower_heading_pro p{
+    padding-top: 10px;
+    text-align: justify;
+}
+.lower_heading_pro span{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
